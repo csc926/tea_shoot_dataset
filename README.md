@@ -10,7 +10,7 @@ This dataset contains **478 annotated images** of tea shoots for computer vision
 
 - **Training Images**: 440
 - **Validation Images**: 38
-- **Total Classes**: 4 (labeled as '0', '1', '2', '3')
+- **Total Classes**: 4
 - **Image Format**: JPG (1280x1280 pixels)
 - **Annotation Format**: YOLO format
 
